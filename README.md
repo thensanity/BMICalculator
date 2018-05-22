@@ -8,11 +8,11 @@ Formula Involved
 B.M.I=WEIGHT /( HEIGHT*HEIGHT) -where weight in kgs height in cms like this..etc.
 
 Module or functionalities
-1.) Home page
-2.) Calculate BMI.
-3.) View Result.
-4.) Insert Result into database.
-5.) View BMI List History.
+- Home page
+- Calculate BMI.
+- View Result.
+- Insert Result into database.
+- View BMI List History.
 
 
 Library or external JAR file
