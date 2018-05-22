@@ -16,16 +16,16 @@ Module or functionalities
 
 
 Library or external JAR file
-1.)apache-httpcomponents-httpclient 2.apache-httpcomponents-httpcore 3.commons-logging-1.2 4.java-json
+- apache-httpcomponents-httpclient 2.apache-httpcomponents-httpcore 3.commons-logging-1.2 4.java-json
 
 Installation
-1.) Download Xampp
-2.) Enable Xampp services before getting started
+- Download Xampp
+- Enable Xampp services before getting started
 
 Getting Started
 -Prerequisites:
-1.) Android Studio/Eclipse/other suitable IDE
-2.) ensure you use the latest Gradle version
+- Android Studio/Eclipse/other suitable IDE
+- ensure you use the latest Gradle version
 
 Installing
 After you have downloaded the source code, import the project into Android Studio. Configure the SDK path according to your SDK location minSdkVersion = 19. Make sure you have updated your Gradle to latest gradle version suggestion version: gradle-4.4
